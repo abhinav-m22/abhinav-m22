@@ -19,7 +19,7 @@
 
 - 🔍 My areas of interests are **Web Dev, Data Science and Data Structures & Algorithms**
 
-- 🔭 I’m currently learning **NextJS, TypeScript and Deep Learning**
+- 🔭 I’m currently exploring **NextJS and Deep Learning**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
