@@ -29,7 +29,7 @@
 
 - 📫 How to reach me **abhinavpm05@gmail.com**
 
-- 📄 Link to my [Resume](https://drive.google.com/file/d/19TbBfaRcWaNEHofmD1YTp4zCAukSzaOS/view?usp=share_link)
+- 📄 Link to my [Resume](https://drive.google.com/file/d/1YdTWjJh5mVdLnirHDWAWtNrpRz9W3lJo/view?usp=sharing)
 
 <br>
 
