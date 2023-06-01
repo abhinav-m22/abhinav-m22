@@ -17,15 +17,15 @@
 
 - 😎 I’m a  **Full Stack Web Developer.** Always Learning and Exploring!
 
-- 🔍 My areas of interests are **Web Dev, Data Science and Data Structures & Algorithms**
+- 🔍 My areas of interests are **Web Dev, Open Source and Data Structures & Algorithms**
 
-- 🔭 I’m currently exploring **NextJS and Deep Learning**
+- 🔭 I’m currently exploring **DevOps and Cloud**
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
 - 👨‍💻 Here's my [Portfolio](https://abhinav-m22.github.io/personal-portfolio)
 
-- 💬 Ask me about **ReactJS, NodeJS, Javascript, ExpressJS, HTML, CSS**
+- 💬 Ask me about **ReactJS, NodeJS, Javascript, ExpressJS, HTML, CSS, NextJS**
 
 - 📫 How to reach me **abhinavpm05@gmail.com**
 
