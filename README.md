@@ -29,8 +29,6 @@
 
 - 📫 How to reach me **abhinavpm05@gmail.com**
 
-- 📄 Link to my [Resume](https://drive.google.com/file/d/1FI2HLtGefpEXcHFRIZBaPAUvysp8FRaB/view?usp=sharing)
-
 <br>
 
 
