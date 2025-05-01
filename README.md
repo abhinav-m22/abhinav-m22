@@ -23,7 +23,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Stack Projects**
 
-- 👨‍💻 Here's my [Portfolio](https://abhinav-m22.github.io/personal-portfolio)
+- 👨‍💻 Here's my [Portfolio](https://abhinav-mahajan.vercel.app)
 
 - 💬 Ask me about **ReactJS, NodeJS, Javascript, ExpressJS, HTML, CSS, NextJS**
 
