@@ -1,108 +1,132 @@
-<!-- <h1 align="center">Hi 👋, I'm Abhinav!</h1>
-<h3 align="center">A passionate Full Stack Web Developer</h3> -->
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi,+There!+👋;I'm+Abhinav....;Full+Stack+Web+Developer!;&center=true&size=27">
-  </a>
-</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhinav-m22&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-m22" /> </p>
-
-## **About me**
-
-<br>
-<picture> <img align="right" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width = 300px></picture>
-
-
-- 😎 I’m a  **Full Stack Web Developer.** Always Learning and Exploring!
-
-- 🔍 My areas of interests are **Web Dev, Open Source and Data Structures & Algorithms**
-
-- 🔭 I’m currently exploring **DevOps and Cloud**
-
-- 👯 I’m looking to collaborate on **MERN Stack Projects**
-
-- 👨‍💻 Here's my [Portfolio](https://abhinav-mahajan.vercel.app)
-
-- 💬 Ask me about **ReactJS, NodeJS, Javascript, ExpressJS, HTML, CSS, NextJS**
-
-- 📫 How to reach me **abhinavpm05@gmail.com**
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Abhinav Mahajan. Backend systems, AI agents, open source." src="assets/banner-light.svg">
+</picture>
 
 <br>
 
+Software Engineer at Barclays. I own backend services that run in production, and I spend
+most of my free time contributing to open source LLM and agent infrastructure.
 
+The part I care about starts before the code: sitting in design discussions, mapping how
+services talk to each other, and finding where a system will break long before it does. The
+interesting problem is never making something work once, it's keeping it fast and reliable
+when the load stops being polite.
 
-## <b> Connect with Me</b>
+I'd rather understand one system deeply than name drop ten.
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-mahajan-b805b022a/)
-[![leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/abhinav_m22/)
-[![geeksforgeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhinav_m22)
-[![codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/abhinav_m22)
-[![hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://abhinavm.hashnode.dev/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/abhinav_m22)
-[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhi_m_22/)
-<a href="abhinavpm05@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/abhinav-mahajan-b805b022a/">LinkedIn</a> &nbsp;·&nbsp;
+<a href="https://abhinav-mahajan.vercel.app">Portfolio</a> &nbsp;·&nbsp;
+<a href="mailto:abhinavpm05@gmail.com">Email</a>
+
+<br><br>
+
+### `OPEN SOURCE`
+
+Most of what I know about AI systems came from shipping into other people's codebases and
+getting reviewed by engineers who knew the domain better than I did.
+
+<table>
+<tr><td width="50%" valign="top">
+
+**[vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)**
+
+`Go` `Rust` `Envoy` `Kubernetes`
+
+Model routing for LLM inference, built under the vLLM org alongside Red Hat,
+IBM Research, AMD and Hugging Face.
+
+Member of the Developer Experience and Ecosystem working group, working on routing
+internals and contributor tooling.
+
+</td><td width="50%" valign="top">
+
+**[Archestra](https://github.com/archestra-ai/archestra)**
+
+`TypeScript` `MCP` `RAG` `LLM Integrations`
+
+Enterprise MCP security platform. **25+ merged PRs.**
+
+Knowledge connectors for Google Drive, Slack, Salesforce and Linear into the retrieval
+pipeline. Org wide admin audit log, agent export and clone, x.AI provider integration,
+security hardening for sensitive knowledge sources.
+
+$10M funded, running inside Fortune 50 companies.
+
+</td></tr>
+</table>
+
+**[AgentMemory](https://github.com/rohitg00/agentmemory)** &nbsp;`Python`&nbsp; memory layer for AI agents, 20k+ stars. 3 merged PRs.
+
+[**Every merged PR across projects →**](https://github.com/pulls?q=is%3Apr+author%3Aabhinav-m22+is%3Amerged)
+
 <br>
 
-## <b> Skills</b>
+### `WORK`
 
-### Languages :
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![GoLang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+**Barclays** &nbsp;·&nbsp; Software Engineer &nbsp;·&nbsp; 2025 to present
 
-### Libraries & Framework :
+I own several production backend services end to end, from design review through
+deployment and on call. The work that actually takes the time:
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Expressjs](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Nextjs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Resilient event driven flows.** Kafka producers and consumers, plus Solace topic
+subscriptions, with the retry, failure handling and backpressure that keeps them honest
+under real traffic. Most of the design work here is deciding what happens when a downstream
+service is slow rather than down.
 
-### Cloud, DevOps and Other Tools
+**Memory and concurrency under load.** Fixed a service that crashed with OOM in production.
+It pulled roughly a million rows into memory at once and spawned a virtual thread per entry,
+none of which were ever shut down. The fix was bounding both ends: page the reads instead of
+loading everything, and gate concurrency instead of creating a thread per row.
 
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![GitHubActions](https://img.shields.io/badge/Github%20Actions-282a2e?style=for-the-badge&logo=githubactions&logoColor=367cfe)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+**Transaction log friendly deletes.** A raw delete over millions of rows fills the database
+transaction log, fails the batch, and can lock the database outright. Rewrote these as
+chunked Spring Batch jobs across SQL and MongoDB, so every commit stays small, the log stays
+healthy, and a failed run resumes instead of rolling back a week of work.
+
+**Distributed cache coordination.** Kubernetes jobs that refresh in memory caches across
+hundreds of pods, keeping state consistent without a stampede.
+
+**Delivery.** GitLab CI/CD for multi module deploys, secrets management, automated
+environment provisioning.
+
+<details>
+<summary><b>Earlier</b></summary>
 
 <br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<p align=center>
-  <div align=center>
-    <table>
-        <tr> 
-            <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=abhinav-m22&theme=nightowl" alt="Abhinav"/>
-            <td><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=abhinav-m22&count_private=true&show_icons=true&theme=nightowl" alt="Abhinav" /></td>
-        </tr>
-    </table>
-  </div>
-  <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhinav-m22&layout=donut&langs_count=5&show_icons=true&locale=en&theme=algolia&hide=Jupyter%20Notebook,TeX,Dart,python" alt="Abhinav" /></p>
-  <br>
+**Ridecell** &nbsp;·&nbsp; Backend Developer Intern &nbsp;·&nbsp; 2025
+Refund and payment recovery workflows across 5000+ monthly transactions. Fixed Django and
+Braintree integration failures, cutting error rates 35%.
 
-</p>
+**SellerSetu** &nbsp;·&nbsp; Software Developer Intern &nbsp;·&nbsp; 2024
+Django REST and Go services with 75% faster endpoints. PostgreSQL to MongoDB migration for
+a 20% query improvement. Load balanced microservice split that cut database strain 30%.
 
-<summary><b>🏆 Github Trophies</b></summary>
+**Barclays** &nbsp;·&nbsp; Technology Summer Intern &nbsp;·&nbsp; 2024
+.NET Core status tracking tool and background worker parsing CI logs into JIRA.
+Cut standup duration 40%.
+
+</details>
+
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhinav-m22&theme=tokyonight&row=1&column=7&margin-w=30)](https://github.com/ryo-ma/github-profile-trophy)
+### `STACK`
+
+```
+Production      Java · Spring Boot · Spring Batch · Kafka · Solace
+                Kubernetes · MongoDB · PostgreSQL
+Also ship in    Go · Python · TypeScript · Django REST · React
+Platforms       AWS · GCP · Docker · GitLab CI · Linux
+```
+
+<br>
+
+### `ELSEWHERE`
+
+```
+Smart India Hackathon 2024     Winner, 1st place, software edition
+Motia Backend Hackathon        2nd place, solo, of 4000+
+Flipkart GRiD 5.0              Semi-finalist, top 0.5% of 400,000+
+ETHIndia / ETHMumbai           Sponsor prizes
+```
